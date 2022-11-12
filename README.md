@@ -45,7 +45,7 @@ You need to have [Android Studio Beta 3 or above](https://developer.android.com/
 
 ## Contribute 🤝
 If you want to contribute to this app, you're always welcome!
-See [Contributing Guidelines](https://github.com/shashwat-verma18/Shashwat/Contribution.md). 
+See [Contributing Guidelines](https://github.com/shashwat-verma18/SpendPlus-Xpense-Tracker/blob/main/Contribution.md). 
 
 <br>
 
