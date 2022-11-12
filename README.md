@@ -41,7 +41,6 @@ You need to have [Android Studio Beta 3 or above](https://developer.android.com/
 
 ![ScreenShot7](https://github.com/shashwat-verma18/SpendPlus/blob/main/Screenshots/Pixel%20True%20Mockup%20(4).png)
 
-
 <br>
 
 ## Contribute 🤝
@@ -56,9 +55,6 @@ Have an project? DM us at 👇
 Drop a mail to:- shashwatv18@gmail.com
 
 <br>
-
-<br>
-
 
 ## Credits 🤗
 
