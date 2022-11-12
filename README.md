@@ -1,6 +1,6 @@
 ![GitHub Cards Preview](https://github.com/shashwat-verma18/SpendPlus/blob/main/Screenshots/InShot_20221112_235258990.jpg)
 
-# SpendPus
+# SpendPlus - Xpense Tracker
 A simple expense tracker app 📱 built to track all your expenses in one place. It also notifies user on every online transaction they made. *Made with love ❤️ by [Shashwat Verma](https://github.com/shashwat-verma18)*
 
 <br />
